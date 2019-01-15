@@ -1,3 +1,6 @@
+#Markdown
+[![Build Status](https://seacspa.visualstudio.com/Seac.PatronatoTest/_apis/build/status/API/Seac.PatronatoTest-CI?branchName=master)](https://seacspa.visualstudio.com/Seac.PatronatoTest/_build/latest?definitionId=203?branchName=master)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
